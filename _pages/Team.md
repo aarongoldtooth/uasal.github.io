@@ -37,6 +37,7 @@ layout: single
 ## Staff
 - Manny Montoya, Technical Manager, UA Steward Observatory
 - Robert Thompson, Software and Technical Services Specialist 
+- [Aaron Goldtooth](https://www.linkedin.com/in/aaron-goldtooth), Research Professional I, UA Steward Observatory
 
 
 ## Collaborators 
